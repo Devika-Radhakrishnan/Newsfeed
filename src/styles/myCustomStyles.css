@@ -1,0 +1,6 @@
+@media screen and (max-width: 776px) {
+  .header-form {
+    width: 25rem !important;
+    height: 45rem;
+  }
+}

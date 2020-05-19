@@ -1,0 +1,18 @@
+.margin-header {
+  margin-top: 65px;
+  margin-bottom: 0px;
+}
+.header-form {
+  width: 30rem;
+  height: 50rem;
+}
+.head-img {
+  padding: 10px;
+  position: relative;
+}
+.text-form {
+  position: absolute;
+  top: 25px;
+  left: 100px;
+  width: 100%;
+}
